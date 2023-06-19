@@ -1,0 +1,222 @@
+/* Style for the home and reference page*/
+.non-infopage{
+	text-align:center;
+	font-size:28px;
+	background-image:url("images/homepage.jpg");
+	background-size:cover;
+	color:MintCream;
+	font-family:Geneva, Verdana, sans-serif;
+}
+/*Moon Jellyfish header+footer colour */
+.mj{
+	text-align:center;
+	color:PaleVioletRed;
+}
+
+/* Moon Jellyfish page style */
+.moon{
+	font-size:20px;
+	font-family:Geneva, Verdana, sans-serif;
+	background-color:MistyRose;
+	color:salmon;
+}
+/* Moon Jellyfish h3 colour*/
+.mhead{
+	color:orchid;
+}
+/* Colour for links*/
+a{
+	color:#66CDAA;
+}
+/* Moon Jellyfish img*/
+#moonbg{
+	width:1000px;
+	height:600px;
+}
+/* Img of where Moon Jelly populations are located*/
+#moonpop{
+	width:800px;
+	height:472px;
+}
+/* Image of Moon Jelly anatomy*/
+#moonant{
+	width:700px;
+	height:500px;
+}
+/*img of Moon Jelly sting */
+#moonsting{
+	width:600px;
+	height:400px;
+}
+/* Header+Footer colour for moon jelly page*/
+.borderM{
+	background-color:LightPink;
+}
+/* Style for Cannonball Jelly page*/
+.cannon{
+	font-size:20px;
+	font-family:Geneva, Verdana, sans-serif;
+	background-color:PeachPuff;
+	color:coral;
+}
+/* cannonball header and footer colour*/
+.cj{
+	text-align:center;
+	color:FireBrick;
+}
+/* cannonball h3 colour*/
+.chead{
+	color:peru;
+}
+/* cannonball jellyfish img*/
+#cannonbg{
+	width:1000px;
+	height:500px;
+}
+/*cannonball habitat*/
+#cannonpop{
+	width:960px;
+	height:540px;
+}
+/* cannonball anatomy img*/
+#cannonant{
+	width:500px;
+	height:400px;
+}
+/* cannonball header+footer background colour*/
+.borderC{
+	background-color:tomato;
+}
+/* Irukandji header+footer colour*/
+.ij{
+	text-align:center;
+	color:RoyalBlue;
+}
+/* style for irukandji page*/
+.irukandji{
+	font-size:20px;
+	font-family:Geneva, Verdana, sans-serif;
+	background-color:azure;
+	color:DeepSkyBlue;
+}
+/*irukandji h3 colour*/
+.ihead{
+	color:DodgerBlue;
+}
+/*irukandji header+footer background colour*/
+.borderI{
+	background-color:LightBlue;
+}
+/*irukandji img*/
+#irukandjibg{
+	width:800px;
+	height:500px;
+}
+/*irukandji habitat*/
+#irukandjipop{
+	width:500px;
+	height:400px;
+}
+/* irukandji anatomy img*/
+#irukandjiant{
+	width:450px;
+	height:340px;
+}
+/* irukandji prey img*/
+#irukandjiprey{
+	width:600px;
+	height:400px;
+}
+/* irukandji predator img*/
+#irupred{
+	width:600px;
+	height:400px;
+}
+/*Bloodybelly header+footer colour*/
+.bcj{
+	text-align:center;
+	color:#A70000;
+}
+/*bloodybelly h3 colour*/
+.bhead{
+	color:#FF0000;
+}
+/* style for bloodybelly page*/
+.bloodbelly{
+	font-size:20px;
+	font-family:Geneva, Verdana, sans-serif;
+	background-color:#FFBABA;
+	color:#FF6C6C;
+}
+/*bloodybelly header+footer colour*/
+.borderB{
+	background-color:#FF5252;
+}
+/*bloodybelly img*/
+#bloodybelly{
+	width:700px;
+	height:430px;
+}
+/*bloodybelly habitat img*/
+#bcjpop{
+	width:580px;
+	height:460px;
+}
+/*bloodybelly food img*/
+#bfood{
+	height:400px;
+	width:700px;
+}
+/*cilia on bloodybelly img*/
+#cilia{
+	width:600px;
+	height:400px;
+}
+/* navigation bar formatting defined below*/
+nav{
+	height:80px;
+	width:100%;
+	position:fixed;
+	top:0;
+	background:#000000;
+	z-index:2;
+}
+
+nav ul{
+	display:inline-block;
+	line-height:80px;
+	margin:0 5px;
+}
+
+nav a{
+	color:white;
+	font-size:20px;
+	padding: 7px 13px;
+	border-radius:3px;
+}
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+nav li{
+	display:inline;
+}
+/* reference link is differently coloured to emphasize this isn't about jellyfish*/
+#reference{
+	color:crimson;
+}
+/*iframe dimensions*/
+iframe{
+	width:560px;
+	height:315px;
+}
+
+/*intralink properties*/
+
+.intra{
+	color:MidnightBlue;
+}
